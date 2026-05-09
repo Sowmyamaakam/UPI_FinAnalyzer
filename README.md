@@ -341,51 +341,16 @@ finanalyzer/
 └── uploads/                   # Uploaded images (not in git)
 ```
 
-## API Documentation
 
-### Authentication Endpoints
-
-- `POST /login` - User login
-- `POST /register` - User registration
-- `POST /api/forgot-password` - Request password reset
-- `POST /reset-password` - Reset password with token
-- `GET /logout` - User logout
-
-### Transaction Endpoints
-
-- `POST /api/upload` - Upload and process receipt image
-- `POST /api/save-transaction` - Save single transaction
-- `POST /api/save-transactions-bulk` - Save multiple transactions
-- `GET /api/transactions` - Get all user transactions
-- `PUT /api/transaction/<id>` - Update transaction
-- `DELETE /api/transaction/<id>` - Delete transaction
-
-### Dashboard Endpoints
-
-- `GET /api/dashboard-data` - Get dashboard summary
-- `GET /api/analytics-data` - Get detailed analytics
-- `GET /api/spending-categories` - Get category breakdown
-- `GET /api/dashboard-alerts` - Get active alerts and savings progress
-
-### Group Endpoints
-
-- `GET /api/groups` - Get all user groups
-- `POST /api/create-group` - Create new group
-- `GET /api/group/<id>` - Get group details
-- `PUT /api/group/<id>/settings` - Update group settings
-- `POST /api/join-group` - Join group with invite code
-- `POST /api/group/<id>/leave` - Leave group
-- `DELETE /api/group/<id>/member/<email>` - Remove member
-- `GET /api/group-analytics/<id>` - Get group analytics
-
-### Settings Endpoints
-
-- `GET /api/user-settings` - Get user settings
-- `PUT /api/user-settings/savings-goal` - Update savings goal
-- `POST /api/user-settings/spending-alerts` - Add spending alert
-- `DELETE /api/user-settings/spending-alerts/<id>` - Delete alert
-- `PUT /api/user-settings/spending-alerts/<id>/toggle` - Toggle alert
-
+## API
+ 
+FinAnalyzer exposes a REST API for all core functionality. The API covers the following areas:
+ 
+- **Authentication** — login, registration, password reset
+- **Transactions** — upload, save, retrieve, update, and delete transactions
+- **Dashboard & Analytics** — summary data, spending trends, category breakdowns, and alerts
+- **Groups** — create and manage shared expense groups, member roles, and group analytics
+- **Settings** — savings goals and spending alert configuration
 ## OCR Processing Details
 
 ### Supported UPI Apps
