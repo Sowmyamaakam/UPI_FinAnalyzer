@@ -1,8 +1,7 @@
 <div align="center">
 
 # 💸 FinAnalyzer
-### Smart UPI Financial Management — Built  by [Vaishnavi Vadla](https://github.com/VaishnaviVadla33) & [Sowmya Maakam](https://github.com/Sowmyamaakam)
-
+### Smart UPI Financial Management 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-upi--finanalyzer.onrender.com-6C63FF?style=for-the-badge)](https://upi-finanalyzer.onrender.com/)
 
 
