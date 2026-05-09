@@ -1,8 +1,7 @@
 <div align="center">
 
-# 💸 FinAnalyzer
-### Smart UPI Financial Management 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-upi--finanalyzer.onrender.com-6C63FF?style=for-the-badge)](https://upi-finanalyzer.onrender.com/)
+#  FinAnalyzer- Smart UPI Financial Management Platform
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-upi--finanalyzer.onrender.com-6C63FF?style=for-the-badge)](https://upi-finanalyzer.onrender.com/)
 
 
 </div>
@@ -13,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About the Team
+##  About the Team
 
 This project was designed and built end-to-end by two developers:
 
