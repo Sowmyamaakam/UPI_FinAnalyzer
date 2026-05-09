@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💸 FinAnalyzer
-### Smart UPI Financial Management — Built with ❤️ by [Vaishnavi Vadla](https://github.com/VaishnaviVadla33) & [Sowmya Maakam](https://github.com/Sowmyamaakam)
+### Smart UPI Financial Management — Built  by [Vaishnavi Vadla](https://github.com/VaishnaviVadla33) & [Sowmya Maakam](https://github.com/Sowmyamaakam)
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-upi--finanalyzer.onrender.com-6C63FF?style=for-the-badge)](https://upi-finanalyzer.onrender.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -21,10 +21,10 @@
 
 This project was designed and built end-to-end by two developers:
 
-| | Developer | GitHub |
-|---|---|---|
-| 🎯 | **Vaishnavi Vadla** | [@VaishnaviVadla33](https://github.com/VaishnaviVadla33) |
-| 🚀 | **Sowmya Maakam** | [@Sowmyamaakam](https://github.com/Sowmyamaakam) |
+| Developer | GitHub |
+|---|---|
+| **Vaishnavi Vadla** | [@VaishnaviVadla33](https://github.com/VaishnaviVadla33) |
+| **Sowmya Maakam** | [@Sowmyamaakam](https://github.com/Sowmyamaakam) |
 
 ---
 
