@@ -2,7 +2,10 @@
 
 #  FinAnalyzer- Smart UPI Financial Management Platform
 [![Live Demo](https://img.shields.io/badge/_Live_Demo-upi--finanalyzer.onrender.com-6C63FF?style=for-the-badge)](https://upi-finanalyzer.onrender.com/)
-
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
 </div>
 
